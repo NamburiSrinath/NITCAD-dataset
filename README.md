@@ -3,6 +3,7 @@
 As part of our major project, we have worked on to develop a dataset for autonomous vehicles in India (named it as NITCAD i.e National Insititute of Technology Calicut Autonomous Driving). 
 
 Please refer to [NITCAD dataset](https://doi.org/10.1016/j.procs.2020.04.022) for paper regarding NITCAD dataset and consider to cite as
+
 @article{srinath2020nitcad,
   title={NITCAD-Developing an object detection, classification and stereo vision dataset for autonomous navigation in Indian roads},
   author={Srinath, Namburi GNVV Satya Sai and Joseph, Athul Zac and Umamaheswaran, S and Priyanka, Ch Lakshmi and Nair, Malavika and Sankaran, Praveen},
@@ -40,6 +41,10 @@ In addition to that, we have worked on KITTI dataset and here are few algorithms
 Monocular Visual Odometry (Kanade–Lucas–Tomasi feature tracker)
 
 Object recognition by DenseNet, Inceptionv3, MobileNet, NASNet, VGG16 and Xception (Keras implementation)
+
+## License
+
+NITCAD - An object detection, classification and stereo vision dataset for autonomous navigation in Indian roads by Namburi GNVV Satya Sai Srinath, Athul Zac Joseph, S Umamaheswaran, Ch. Lakshmi Priyanka, Malavika Nair M, Praveen Sankaran is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] (https://creativecommons.org/licenses/by-nc-nd/4.0/). Based on a work at https://www.sciencedirect.com/science/article/pii/S187705092030987X?via%3Dihub%3C/a%3E
 
 **Note: This repository is in progress and additional links/data will be added.**
 
