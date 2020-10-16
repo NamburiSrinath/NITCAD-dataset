@@ -53,6 +53,8 @@ Object recognition by DenseNet, Inceptionv3, MobileNet, NASNet, VGG16 and Xcepti
 
 NITCAD - An object detection, classification and stereo vision dataset for autonomous navigation in Indian roads by Namburi GNVV Satya Sai Srinath, Athul Zac Joseph, S Umamaheswaran, Ch. Lakshmi Priyanka, Malavika Nair M, Praveen Sankaran is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Based on a work at https://www.sciencedirect.com/science/article/pii/S187705092030987X?via%3Dihub%3C/a%3E
 
+I would like to thank my project teammates [Athul Zac Joseph](https://www.linkedin.com/in/athul-zac-joseph-450564129/), [Ch. Lakshmi Priyanka](https://www.linkedin.com/in/lakshmi-priyanka/), [Malavika Nair M](https://www.linkedin.com/in/malavika-nair-m/), [S Umamaheswaran](https://www.linkedin.com/in/umamaheswaran-s/) and our guide [Dr. Praveen Sankaran](http://www.nitc.ac.in/index.php/?url=users/view/320/10/3) who helped at various stages during the project.
+
 **Note: This repository is in progress and additional links/data will be added.**
 
 **Pending tasks**
