@@ -45,7 +45,7 @@ Monocular Visual Odometry (Kanade–Lucas–Tomasi feature tracker)
 Object recognition by DenseNet, Inceptionv3, MobileNet, NASNet, VGG16 and Xception (Keras implementation)
 
 ## License
-[(https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![CC BY-NC-ND 4.0](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 NITCAD - An object detection, classification and stereo vision dataset for autonomous navigation in Indian roads by Namburi GNVV Satya Sai Srinath, Athul Zac Joseph, S Umamaheswaran, Ch. Lakshmi Priyanka, Malavika Nair M, Praveen Sankaran is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] (https://creativecommons.org/licenses/by-nc-nd/4.0/). Based on a work at https://www.sciencedirect.com/science/article/pii/S187705092030987X?via%3Dihub%3C/a%3E
 
